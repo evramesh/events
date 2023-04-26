@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.mini {
+  display: flex;
+  flex-wrap: wrap;
+}
+.sub {
+  background-color: #64748b;
+  width: 60vw;
+  height: 100vh;
+}
+.head {
+  color: white;
+}
+.two {
+  background-color: red;
+  height: 100vh;
+  width: 40vw;
+}
+.main {
+  display: flex;
+}

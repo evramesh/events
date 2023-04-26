@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.li {
+  list-style: none;
+}
+.img {
+  height: 150px;
+  width: 230px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  color: beige;
+}
